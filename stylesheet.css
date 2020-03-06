@@ -1,0 +1,38 @@
+body{
+  text-align: center;
+  font-family: 'Varela Round', sans-serif;
+}
+.icon{
+  width: 200px;
+  border-radius: 50%;
+  margin-top: 180px;
+}
+h1{
+  font-size: 70px;
+  margin-top: 5px;
+  margin-bottom: 90px;
+}
+a{
+
+  position: relative;
+    display: inline-block;
+    color: #fff;
+    text-decoration: none;
+    border-bottom: solid 2px;
+    border-radius: 4px;
+    font-weight: bold;
+    width: 100px;
+    padding: 10px;
+}
+.buttons{
+  text-align: center;
+}
+.twi{
+  background-color: #00acee
+}
+.qii{
+  background-color: #5cc344
+}
+.blo{
+  background-color: orange;
+}
