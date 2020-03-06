@@ -1,6 +1,7 @@
 body{
   font-family: "Varela Round", sans-serif;
   text-align: center;
+  color: #666666;
 }
 .cover{
   height: 100vh;
@@ -14,7 +15,6 @@ h1{
   font-size: 70px;
   margin-top: 5px;
   margin-bottom: 90px;
-  color: #666666;
 }
 a{
 
@@ -43,9 +43,7 @@ a{
 h2{
   font-size: 40px;
   padding-top: 90px;
-  color: #666666;
 }
 p{
   font-size: 20px;
-  color: #666666;
 }
