@@ -1,6 +1,9 @@
 body{
+  font-family: "Varela Round", sans-serif;
   text-align: center;
-  font-family: 'Varela Round', sans-serif;
+}
+.cover{
+  height: 100vh;
 }
 .icon{
   width: 200px;
@@ -11,6 +14,7 @@ h1{
   font-size: 70px;
   margin-top: 5px;
   margin-bottom: 90px;
+  color: #666666;
 }
 a{
 
@@ -35,4 +39,13 @@ a{
 }
 .blo{
   background-color: orange;
+}
+h2{
+  font-size: 40px;
+  padding-top: 90px;
+  color: #666666;
+}
+p{
+  font-size: 20px;
+  color: #666666;
 }
