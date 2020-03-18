@@ -1,4 +1,4 @@
-@media (max-width:479px) {
+@media screen and (max-device-width:500px) {
   /*タブレット用*/
   .icon{
     margin-top: 345px;
