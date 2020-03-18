@@ -1,0 +1,31 @@
+@media (max-width:1024px) {
+  /*タブレット用*/
+  .icon{
+    margin-top: 345px;
+    width: 550px;
+  }
+  h1{
+    font-size: 160px;
+  }
+  a{
+    text-decoration: none;
+    border-bottom: solid 2px;
+    border-radius: 20px;
+    font-weight: bold;
+    width: 180px;
+    padding: 30px;
+  }
+  .buttons{
+    font-size: 50px;
+  }
+  h2{
+    font-size: 90px;
+    padding-top: 80px;
+  }
+  p{
+    font-size: 20px;
+  }
+  .pad{
+    padding: 75px;
+  }
+}
